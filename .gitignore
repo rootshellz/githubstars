@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Token File
+.token
+
+# i/o files
+*.json
+*.csv
+*.txt
