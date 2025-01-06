@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "githubstars"
+version = "0.1.0"
+description = "GitHub stars scripts"
+authors = ["rootshellz <rootshellz@rootshellz.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+requests = "^2.32.3"
+
+
+[tool.poetry.group.dev.dependencies]
+bpython = "^0.24"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
