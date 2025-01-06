@@ -1,7 +1,7 @@
 # githubstars
 
-Quick and dirty scripts for managing started repos.
-Born from a need to quickly cleanup a massive numbe of given stars accumulated
+Quick and dirty scripts for managing starred repos.
+Born from a need to quickly cleanup a massive number of given stars accumulated
 over the years.
 
 ## Authentication
